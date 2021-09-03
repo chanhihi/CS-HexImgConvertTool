@@ -1,0 +1,13 @@
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\bin\Debug\bluetoothLEdevicePairing.exe.config
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\bin\Debug\bluetoothLEdevicePairing.exe
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\bin\Debug\bluetoothLEdevicePairing.pdb
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\bin\Debug\Windows.winmd
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\hexProject.Form1.resources
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\bluetoothLEdevicePairing.Properties.Resources.resources
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\bluetoothLEdevicePairing.csproj.GenerateResource.cache
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\bluetoothLEdevicePairing.csproj.CoreCompileInputs.cache
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\bluetoothLEdevicePairing.csproj.CopyComplete
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\bluetoothLEdevicePairing.exe
+C:\Users\rootlink1\Source\Repos\bluetoothLEdevicePairing\bluetoothLEdevicePairing\obj\Debug\bluetoothLEdevicePairing.pdb
